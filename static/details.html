@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>paleoseek.net</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
+
+    <!-- jQuery -->
+    <script type="text/javascript" charset="utf8" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.2.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+
+    <style type="text/css">
+    body {
+        padding-top: 50px;
+    }
+    .starter-template {
+        padding: 40px 15px;
+        text-align: center;
+    }
+    </style>
+
+    <script>
+    (function(i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function() {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-76153-8', 'auto');
+    ga('send', 'pageview');
+    </script>
+
+
+
+    <script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+        $('#example').dataTable();
+    });
+    </script>
+
+
+</head>
+
+<body>
+
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">paleoseek.net</a>
+            </div>
+            <div class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/">Home</a>
+                    </li>
+                    <li><a href="/data">Search Data Sets</a>
+                    </li>
+                    <li class="active"><a href="/static/details.html">About, Usage, History</a>
+                    </li>
+                    <li><a href="/static/resources.html">Resource Files</a>
+                    </li>
+                </ul>
+            </div>
+            <!--/.nav-collapse -->
+        </div>
+    </div>
+
+
+    <div class="container">
+
+        <div>
+            <h1>About paleoseek.net</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h4>For Questions</h4>
+                <p>For all comments or questions about paleoseek.net please reach me via <a target="_blank" href="https://google.com/+DouglasFils">https://google.com/+DouglasFils</a>.</p>
+                <h4>The Search</h4>
+                <p>The general search uses the google custom search interface. It prioritizes the results from the 600+ whitelisted sites in the resource data set. However, it is open and will return results from sites not in the list if they rank high enough in its ranking.</p>
+
+
+                <h4>The Data Set Search</h4>
+                <p>The data search uses the google custom search interface with a restriction to only return pages that define themselves as schema.org/DataSet. This is based on work by others (links here) as demonstrated at <a taget="_blank" href="http://datasets.schema-labs.appspot.com/">http://datasets.schema-labs.appspot.com/</a> 
+                </p>
+
+            </div>
+            <div class="col-md-6">
+                <iframe width="420" height="315" src="http://www.youtube.com/embed/BOe825fNfBk" frameborder="0" allowfullscreen></iframe>
+
+            </div>
+        </div>
+
+
+        <div>
+            <h1>Context in a larger effort</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+
+                <h4>History</h4>
+                <p>
+                    The dataset started as a crowd sourcing effort at the EarthCube Paleogeoscience Domain Working Group meeting in Minneapolis Minnesota. From there it was worked on by Douglas Fils and Anders Noren to add further items to the collection.
+                </p>
+                <p>Later the set became part of an effort by the Cyberinfrastructure for PaleoGeoscience RCN (<a href="http://workspace.earthcube.org/c4p" target="_blank">http://workspace.earthcube.org/c4p</a>) funded by the NSF EarthCube effort. As part of this effort a greatly expanded version of the list was created under the guidance of Dave Anderson, of NCDC/NOOA. Student workers Ryan Lingo, and Kaleb Horlick, under Dave's guidance have generated the latest version of the list available in the resources section.
+                </p>
+
+
+                <div style="margin-left:40px;margin-top:10px;margin-bottom:20px" itemscope itemtype="http://schema.org/Contributor">
+                    <p>Development of this resources has be supported by the following efforts
+                    </p>
+
+
+                    <div style="margin-top:10px;margin-bottom:20px" itemscope itemtype="http://schema.org/Event">
+                        <a itemprop="url" href="http://earthcube.org/page/end-user-workshops">
+ EarthCube End-User Workshop: 
+  <span itemprop="name">
+Cyberinfrastructure for Paleogeoscience </span>
+  </a>
+                        <meta itemprop="startDate" content="2013-02-04T00:00">(02/04/2013)
+                        <br/>
+                        <a href="http://workspace.earthcube.org/sites/default/files/files/document-repository/CyberinfrastructurePaleogeoscienceEndUseWorkshop.pdf">Executive Summary</a>
+
+                        <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+                            <a target="_blank" itemprop="url" href="http://www.mac-events.org/">
+   McNamara Alumni Center
+    </a>
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <span itemprop="addressLocality">Minneapolis</span>,
+                                <span itemprop="addressRegion">Minnesota</span>
+                            </div>
+                        </div>
+
+
+                    </div>
+
+
+
+                    <div style="margin-top:10px;margin-bottom:20px" itemprop="author" itemscope itemtype="http://schema.org/Organization">
+                        <span itemprop="name">Collaboration and Cyberinfrastructure for Paleogeoscience (C4P) EarthCube Research Coordination Network (RCN)</span>
+                        <br/>
+                        <span itemprop="description">Collaboration and Cyberinfrastructure for Paleogeosciences has the goal advance the role of cyberinfrastructure in unraveling large-scale, long-term evolution of the Earth-life system through the study of the geological record. It is a Research Coordination Network funded by the National Science Foundation as part of the EarthCube effort.</span>
+                        </br>
+                        <a href="http://workspace.earthcube.org/c4p" itemprop="url">http://workspace.earthcube.org/c4p</a>
+                    </div>
+                </div>
+
+
+                <h4>Other Users of this resource list</h4>
+                <p>At present there are three users of the list:
+                </p>
+                <ol>
+                    <li>This site: paleoseek.net
+                    </li>
+                    <li>
+                        A PivotView version of this data is at: <a href="http://hydro10.sdsc.edu/c4pviewer/CommunityPivotTestPage.html" target="_blank">CINERGI C4P Pivot viewer</a>. This is part of the <a href="http://workspace.earthcube.org/cinergi" target="_blank">CINERGI</a> effort.
+                    </li>
+                    <li>
+                        NOAA is also making use of the resource list. (refernce and details needed)
+                    </li>
+                </ol>
+
+
+
+            </div>
+        </div>
+
+
+
+
+    </div>
+    <!-- /.container -->
+</body>
+
+</html>

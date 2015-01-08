@@ -1,0 +1,3035 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>C4P Resource Feed</title> 
+  <link href="http://workspace.earthcube.org/c4p"/>
+  <updated>2014-03-12T00:00:00Z</updated>
+  <author> 
+    <name>C4P</name>
+  </author> 
+  <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
+
+<entry>
+    <name>Data Conservancy</name>
+    <link href="http://dataconservancy.org"/>
+      <classification>various </classification>
+     <communities>life</communities>   <communities> earth</communities>   <communities> social science</communities>   <communities> astronomy</communities> 
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>data preservation for reuse</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>EarthBase</name>
+    <link href="http://earth-base.org"/>
+      <classification>various </classification>
+     <communities>geology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   relational</resourcetype> 
+    <services>RESTful access to a variety of geological data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>PANGAEA</name>
+    <link href="http://www.pangaea.de"/>
+      <classification>various </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>earth and environmental science</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>GeoStratSys (formerly PALEOSTRAT)</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>possibly now defunct as funding ended</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>EarthTime</name>
+    <link href="http://www.earth-time.org"/>
+      <classification>chronology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  community</resourcetype> 
+    <services>organized, community-based international scientific initiative</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Aminostratigraphy database</name>
+    <link href="http://www.ncdc.noaa.gov/paleo/aar.html"/>
+      <classification>chronology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>CHRONOS</name>
+    <link href="http://www.chronos.org"/>
+      <classification>chronology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Foram, timescale, Neptune</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>GeoChron</name>
+    <link href=""/>
+      <classification>chronology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>database for geochronology, workflow support</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>GeoWhen</name>
+    <link href=""/>
+      <classification>chronology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>time scale information</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>National Geochronological Database</name>
+    <link href="http://mrdata.usgs.gov/geochron"/>
+      <classification>chronology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Macrostrat</name>
+    <link href="http://macrostrat.org"/>
+      <classification>chronology </classification>
+     <communities>paleobiology</communities>   <communities> sedimentary geology</communities>   <communities> geodynamics</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   relational</resourcetype> 
+    <services>RESTful access to macrostratigraphic database</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>MagIC</name>
+    <link href="http://earthref.org/MAGIC"/>
+      <classification>chronology </classification>
+     <communities>geophysics</communities>   <communities> tectonics</communities>   <communities> sedimentary geology</communities>   <communities> limnology</communities>   <communities> paleoclimate</communities>   <communities> marine geology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   software</resourcetype> <resourcetype>   portal</resourcetype> <resourcetype>   metadata catalog</resourcetype> 
+    <services>global database of paleomagnetic data from published studies</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>ITRDB Data Bank</name>
+    <link href="http://www.ncdc.noaa.gov/paleo/treering.html"/>
+      <classification>chronology </classification>
+     <communities>geoscience</communities>   <communities> ecology</communities>   <communities> forestry</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   portal</resourcetype> 
+    <services>Tree-ring data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Laboratory of Tree-Ring Research, University of Arizona</name>
+    <link href=""/>
+      <classification>chronology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Analyseries</name>
+    <link href="http://www.lsce.ipsl.fr/logiciels/index.php"/>
+      <classification>chronology </classification>
+     <communities>paleoecologist</communities>   <communities> paleoclimate</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>time series analysis</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Arand</name>
+    <link href="http://www.ncdc.noaa.gov/paleo/softlib/arand/arand.html"/>
+      <classification>chronology </classification>
+     <communities>paleoenvironment</communities>   <communities> paleoclimate</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>time series analysis</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>BACON</name>
+    <link href="http://chrono.qub.ac.uk/blaauw/bacon.html"/>
+      <classification>chronology </classification>
+     <communities>geoscience</communities>   <communities> paleolimnology</communities>   <communities> paleoclimate</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Age modelling in R</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>ChronoZoom</name>
+    <link href="http://www.chronozoom.com"/>
+      <classification>chronology </classification>
+     <communities>geology</communities>   <communities> planetary science</communities>   <communities> paleontology</communities>   <communities> archaeology</communities>   <communities> paleoclimate</communities>   <communities> tectonics</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>zoomable vector-based visualization of the history of the cosmos</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>dplR</name>
+    <link href="http://cran.r-project.org/web/packages/dplR/index.html"/>
+      <classification>chronology </classification>
+     <communities>geoscience</communities>   <communities> ecology</communities>   <communities> forestry</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Tree-ring data analysis in R</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Isoplot</name>
+    <link href=""/>
+      <classification>chronology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Plotting/analysis software for geochronology data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Match</name>
+    <link href="http://lorraine-lisiecki.com/match.html"/>
+      <classification>chronology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>time series analysis</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Time Scale Creator</name>
+    <link href="http://engineering.purdue.edu/Stratigraphy/tscreator/index/index.php"/>
+      <classification>chronology </classification>
+     <communities>geoscience</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>data for biozones and time scale age boundaries; visualization tools for presenting varied information (magnetic chrons, sea level, isotopes, etc)</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>TRiCYCLE</name>
+    <link href="http://www.tridas.org/tricycle"/>
+      <classification>chronology </classification>
+     <communities>geoscience</communities>   <communities> ecology</communities>   <communities> forestry</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Format conversion for tree-ring data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Climate  Explorer</name>
+    <link href="http://climexp.knmi.nl"/>
+      <classification>climate </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>KNMI Climate Explore - meteorological and 20th/21st-century climate data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NOAA national climatic data Center</name>
+    <link href=""/>
+      <classification>climate </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NCDC</name>
+    <link href="http://www.ncdc.noaa.gov"/>
+      <classification>climate </classification>
+     <communities>meteorologist</communities>   <communities> paleoclimate</communities>   <communities> paleoecology</communities> 
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>Modern and Paleo- Climate data on scales from hourly to millennial; searchable via GoogleEarth</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>ICDP CurationDIS</name>
+    <link href="http://www.icdp-online.org"/>
+      <classification>cont drilling </classification>
+     <communities>scientific drilling</communities>   <communities> CSD</communities>   <communities> ICDP</communities>   <communities> IODP-ECORD</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>data capture during initial core description</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>CoreWall</name>
+    <link href="http://www.corewall.org"/>
+      <classification>cont drilling </classification>
+   
+    <datatype>pictures</datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   images</resourcetype> 
+    <services>visualization</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Canadian National Resources Core Repository</name>
+    <link href=""/>
+      <classification>cont drilling </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USGS-Denver Core Research Center</name>
+    <link href=""/>
+      <classification>cont drilling </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   onshore cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>State core repositories (ND, UT, KS, TX, FL, WI, MT, etc)</name>
+    <link href=""/>
+      <classification>cont drilling </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   onshore cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services>example - IGOR (BEG)</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>EarthChem</name>
+    <link href=""/>
+      <classification>geochem </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>geochemical data for sediments, age models, integration with rock data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>EarthRef</name>
+    <link href="http://www.earthref.org"/>
+      <classification>geochem </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   portal</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NSIDC</name>
+    <link href="http://nsidc.org"/>
+      <classification>ice </classification>
+     <communities>paleoclimate</communities>   <communities> climate</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>cryosphere data, ice core data, some analysis tools</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>US Army cold regions rsearch and engineering lab</name>
+    <link href=""/>
+      <classification>ice </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USGS-National Ice Core Laboratory</name>
+    <link href=""/>
+      <classification>ice </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   ice cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Ice Core Storage Facility, Byrd Polar Research Center, Ohio State University</name>
+    <link href=""/>
+      <classification>ice </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   ice cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Polar Rock Repository, Byrd Polar Research Center, Ohio State U</name>
+    <link href=""/>
+      <classification>ice </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   rocks</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Caligornia Geological Survey LiDar</name>
+    <link href=""/>
+      <classification>LIDAR </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>LiDar data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>LiDAR online</name>
+    <link href="http://https://www.lidar-online.com"/>
+      <classification>LIDAR </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>LiDAR database?</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>OpenTopography.org</name>
+    <link href="http://opentopography.org"/>
+      <classification>LIDAR </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>LiDAR, topography</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Utah Geologic Survey</name>
+    <link href="http://geology.utah.gov/databases/lidar/lidar.htm"/>
+      <classification>LIDAR </classification>
+     <communities>Sedimentary Geology Structure</communities>   <communities> Tectonics</communities>   <communities> Hydrology Archeology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Lidar Data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>BLM geospatial data portal</name>
+    <link href=""/>
+      <classification>maps </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>DEM, maps, etc</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USGS Geologic Maps</name>
+    <link href="http://ngmdb.usgs.gov/gmna"/>
+      <classification>maps </classification>
+     <communities>geoscience</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>GIS maps, Google Earth maps</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Colorado Plateau Geosystems Inc</name>
+    <link href="http://cpgeosystems.com/index.html"/>
+      <classification>maps </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   visualization</resourcetype> 
+    <services>database of paleogeography maps</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>National Digital Map</name>
+    <link href=""/>
+      <classification>maps </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>various state survey</name>
+    <link href=""/>
+      <classification>maps </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USGS US Geological Maps</name>
+    <link href="http://tin.er.usgs.gov/geology/state"/>
+      <classification>maps </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   GIS</resourcetype> 
+    <services>digital GIS data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Dapple</name>
+    <link href="http://dapple.geosoft.com"/>
+      <classification>maps </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Google Earth-like user interface for massive quanities of data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>GeoMapApp</name>
+    <link href="http://www.geomapapp.org"/>
+      <classification>maps </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Visualization and integration of geosptially referenced data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USGS LASED geodatabase</name>
+    <link href=""/>
+      <classification>mar geol </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>louisiana coastal data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Calcium Carbonate Database</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Calcium carbonate percentage data from 295 marine sediment cores, plus 14C dates or age models</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Index of Marine Lacustrine Geological Samples</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Catalog of samples maintained by NGDC/NOAA</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IODP JANUS / LIMS</name>
+    <link href="http://www-odp.tamu.edu/database"/>
+      <classification>marine geol </classification>
+     <communities>scientific drilling</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>DSDP / ODP Data (Janus) IODP (LIMS)</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USIO Log DB</name>
+    <link href="http://brg.ldeo.columbia.edu/logdb"/>
+      <classification>marine geol </classification>
+     <communities>scientific drilling</communities> 
+    <datatype>borehole logs</datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>CoreRef</name>
+    <link href="http://coreref.org"/>
+      <classification>marine geol </classification>
+   
+    <datatype>pictures</datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   images</resourcetype> 
+    <services>visualization</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NGDC Index to Marine and Lacustrine Geological Samples</name>
+    <link href="http://www.seabedsamples.org"/>
+      <classification>marine geol </classification>
+     <communities>marine geology</communities>   <communities> limnogeology</communities>   <communities> paleolimnology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   relational</resourcetype> 
+    <services>global marine and lacustrine geological sample inventory and derivative data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Marine Geoscience Data System</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   catalog</resourcetype> 
+    <services>marine geology and geophysics database</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USGS CMG Infobank</name>
+    <link href="http://walrus.wr.usgs.gov/infobank"/>
+      <classification>marine geol </classification>
+     <communities>geoscientists</communities>   <communities> coastal sedimentologists</communities> 
+    <datatype></datatype>
+    <resourcetype>  metadata catalog</resourcetype> 
+    <services>Metadata guide to all past USGS marine and coastal surveys</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Bureau of Ocean Energy Management, Regulation and Enforcement</name>
+    <link href="http://boemre.gov"/>
+      <classification>marine geol </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>RIDGE2000 data portal</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IODP core repositories (BCR/GCR/KCR)</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   marine cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Lamont-Doherty Core Repository, Columbia University</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   marine cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Marine Geological Samples Laboratory, University of Rhode Island</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   marine cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Marine Geology Repository, Oregon State University</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   marine cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Scripps Institution of Oceanography Geological Samples Repository</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   marine cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USGS-Menlo Park Marine Geology Sample Repository</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   marine cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USGS-Woods Hole East Coast Geological Sample Repository</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   marine cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Woods Hole Oceanographic Institution Seafloor Samples Laboratory</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   marine cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Antarctic Marine Geology Research Facility, Florida State University</name>
+    <link href=""/>
+      <classification>marine geol </classification>
+   
+    <datatype>samples</datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   marine cores</resourcetype> <resourcetype>   cores</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Ocean Data View</name>
+    <link href="http://odv.awi.de"/>
+      <classification>marine geol </classification>
+     <communities>oceanography</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>visualizations for oceanographic data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Alaska Paleontology Database</name>
+    <link href="http://alaskafossil.org"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Specific to fossils of Alaska</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Animal Diversity Web</name>
+    <link href="http://animaldiversity.ummz.umich.edu"/>
+      <classification>paleobiology </classification>
+     <communities>evolutionary biology</communities>   <communities> paleontology</communities>   <communities> general public</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>basic zoological and taxonomic data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Biodiversity Information Serving Our Nation (BISON)</name>
+    <link href=""/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>taxonomic and biodiversty data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>BugCEP Coleopteran Ecology Package</name>
+    <link href="http://www.bugscep.com"/>
+      <classification>paleobiology </classification>
+     <communities>paleoentomology</communities>   <communities> entomology</communities>   <communities> ecology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>research and teaching aid, data and tools</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Chronos Portal</name>
+    <link href="http://portal.chronos.org"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Chronos Neptune</name>
+    <link href="http://portal.chronos.org/gridsphere/gridsphere?cid=searches"/>
+      <classification>paleobiology </classification>
+     <communities>deep sea research communities</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>microfossil age /geography distributions + deep sea (DSDP, ODP, IODP) core ages</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Chronos Taxon Atlas</name>
+    <link href="http://portal.chronos.org/gridsphere/gridsphere?cid=res_foram"/>
+      <classification>paleobiology </classification>
+     <communities>biostratigraphers</communities>   <communities> paleoceanographers</communities>   <communities> taxonomists</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>taxonomic atlas for planktic foraminfera</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Date A Clade</name>
+    <link href="http://www.fossilrecord.net/dateaclade/index.html"/>
+      <classification>paleobiology </classification>
+     <communities>evolutionary biology</communities>   <communities> paleontology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>static database of fossil calibrations for molecular divergence estimates for various evolutionary groups</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Diatom Paleolimnology Data Cooperative</name>
+    <link href="http://diatom.ansp.org/dpdc"/>
+      <classification>paleobiology </classification>
+     <communities>paleolimnologists</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>training sets, diatom identification</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>ESRF paleoontological microtomographic database</name>
+    <link href=""/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>European Diatom Database</name>
+    <link href="http://craticula.ncl.ac.uk/Eddi/jsp"/>
+      <classification>paleobiology </classification>
+     <communities>paleolimnologists</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>collection of training sets</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>FishBase</name>
+    <link href="http://fishbase.org"/>
+      <classification>paleobiology </classification>
+     <communities>ichthyologist</communities>   <communities> biodiversity</communities>   <communities> conservation</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>all info about fish (all of it!)</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Fossil  record electronic database (FRED)</name>
+    <link href="http://fred.org.nz"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Paleobiological research database for NZ and nearby regions</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Fossil Calibration Database (forthcoming)</name>
+    <link href="http://www.nescent.org/science/awards_summary.php?id=259"/>
+      <classification>paleobiology </classification>
+     <communities>paleontology</communities>   <communities> evolutionary biology</communities>   <communities> molecular biology</communities>   <communities> geochronology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>fossil calibrations for divergence dating; data include fossil specimens, geochronology, phylogeny, etc</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>GBIF (Global Biodiversity Information Facility)</name>
+    <link href="http://gbif.org"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>species occurances</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>iDigBio</name>
+    <link href="http://www.idigbio.org"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>database of physical samples - modern and  paleo, fossil and physical.</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Insect</name>
+    <link href="http://noaa.gov/paleo/insect.html"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>part of NOAA paleo</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>INTERRAD-Mesozoic Radiolaria Database</name>
+    <link href="http://www2.unil.ch/interrad-mrd/login.php?dbase=radiolaria"/>
+      <classification>paleobiology </classification>
+     <communities>paleoceanographic</communities>   <communities> micropaleo communities</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>taxonomic atlas of Mesozoic radiolaria data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>MOM v 4.1.</name>
+    <link href=""/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>taxonomic data and body size data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>national phenological network</name>
+    <link href="http://www.usanpn.org"/>
+      <classification>paleobiology </classification>
+     <communities>citizen science</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>phenology</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Neotoma Paleoecology Database</name>
+    <link href="http://www.neotomadb.org"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>paleoecology, data download and visualization</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NMITA  Neogene Marine Biota of Tropical America</name>
+    <link href="http://eusmilia.geology.uiowa.edu"/>
+      <classification>paleobiology </classification>
+     <communities>geoscience</communities>   <communities> biosciences</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Taxonomic database of tropical marine invertebrates</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>OBIS</name>
+    <link href="http://iobis.org"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>marine species occurrances</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Peabody Paleo Portal (Yale)</name>
+    <link href="http://peabody.yale.edu/collections"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>digitized museum data holdings</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>radiolaria.org</name>
+    <link href="http://radiolaria.org"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>images, stratigraphic data and taxonomic data on radiolarians</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Smithsonian Museum of Natural History Paleontology and Sediment collections</name>
+    <link href="http://paleobiology.si.edu/collections/paleocollections.html"/>
+      <classification>paleobiology </classification>
+     <communities>paleotological</communities>   <communities> biological</communities>   <communities> sedimentology research communities</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>metadata and images for specimens and samples accession by Smithsonian and NMNH</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Southern Louisiana Paleo Database</name>
+    <link href="http://biostratigraphy.com"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>TimeTree</name>
+    <link href="http://www.timetree.org"/>
+      <classification>paleobiology </classification>
+     <communities>evolutionary biology</communities>   <communities> paleontology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>static database of molecular divergence estimates for various evolutionary gps</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Trace Fossil Image Database</name>
+    <link href="http://www.envs.emory.edu/faculty/MARTIN/ichnology/images.htm"/>
+      <classification>paleobiology </classification>
+     <communities>paleontology</communities>   <communities> public</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>database of trace fossil images</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>UCMP Database (University of California Museum of Paleontology)</name>
+    <link href="http://ucmpdb.berkeley.edu"/>
+      <classification>paleobiology </classification>
+     <communities>paleontology</communities>   <communities> geology</communities>   <communities> organismal biology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>paleontological specimen data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>World Register of Marine Species: WoRMS</name>
+    <link href=""/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>taxonomic data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Neotropical Pollen Database</name>
+    <link href="http://research.fit.edu/paleolab/pollen.php"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   images</resourcetype> 
+    <services>On-line visual reference library for neotropical pollen types</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Silica Secchi Disk</name>
+    <link href="http://silicasecchidisk.conncoll.edu/Main_Menu_Frameset.html"/>
+      <classification>paleobiology </classification>
+     <communities>limnologists</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   images</resourcetype> 
+    <services>online reference key for paleolimnologists - diatoms, chrysophytes, algae</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NEOMAP</name>
+    <link href="http://www.ucmp.berkeley.edu/neomap"/>
+      <classification>paleobiology </classification>
+     <communities>neotoma</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   portal</resourcetype> 
+    <services>federated data portal for paleomammalogy.  Serves FAUNMAP II and MIOMAP. Will link to Neotoma with API.</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>MIOMAP</name>
+    <link href="http://www.ucmp.berkeley.edu/miomap"/>
+      <classification>paleobiology </classification>
+     <communities>mammal paleobiologists</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   relational</resourcetype> 
+    <services>Published records of latest Oligocene to end Miocene mammal fossils from the continental USA.</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Paleobiology Database (PBDB)</name>
+    <link href="http://paleodb.org"/>
+      <classification>paleobiology </classification>
+     <communities>paleobiology</communities>   <communities> sedimentary geology</communities>   <communities> geodynamics</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   relational</resourcetype> 
+    <services>RESTful access to extant and extinct taxonomic,  fossil occurrence,  biostratigraphic and biogeographic information</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Paleontology Portal</name>
+    <link href="http://www.paleoportal.org"/>
+      <classification>paleobiology </classification>
+     <communities>paleontology</communities>   <communities> geology</communities>   <communities> organismal biology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   aggregator</resourcetype> 
+    <services>paleontological specimen data aggregated from various museum databases</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Pander Society</name>
+    <link href="http://le.ac.uk/geology/conodont/pander"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   bibliography</resourcetype> 
+    <services>References for conodont-related publications</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Morphobank</name>
+    <link href="http://www.morphobank.org"/>
+      <classification>paleobiology </classification>
+     <communities>paleontology</communities>   <communities> geology</communities>   <communities> organismal biology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   repository</resourcetype> 
+    <services>morphological data - phylogenetic characters and matrices, images of morphology, histological data, etc;</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Zoobank</name>
+    <link href="http://zoobank.org"/>
+      <classification>paleobiology </classification>
+     <communities>evolutionary biology</communities>   <communities> paleontology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   registry</resourcetype> 
+    <services>official registry for zoological taxonomicnames</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>ViBRANT</name>
+    <link href="http://vbrant.eu"/>
+      <classification>paleobiology </classification>
+     <communities>ViBRANT</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   software</resourcetype> 
+    <services>biodiversity research facilitator website</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Nannotax Atlas</name>
+    <link href="http://nannotax.org"/>
+      <classification>paleobiology </classification>
+     <communities>calcareous nannofossil</communities>   <communities> paleoceanography</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   visualization</resourcetype> 
+    <services>calcareous nannofossil, paleoceanography</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>CLAMP</name>
+    <link href=""/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  dataset</resourcetype> 
+    <services>Fossil leave processing/modeling</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Diatoms of the United States</name>
+    <link href="http://westerndiatoms.colorado.edu"/>
+      <classification>paleobiology </classification>
+     <communities>diatomists</communities> 
+    <datatype></datatype>
+    <resourcetype>  metadata key</resourcetype> 
+    <services>diatom identification</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Biodiversity Heritage Library</name>
+    <link href="http://biodiversitylibrary.org"/>
+      <classification>paleobiology </classification>
+     <communities>paleontology</communities>   <communities> taxonomy</communities> 
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>scanned and OCRed biodiversity text including extinct species</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>DigiMorph</name>
+    <link href="http://www.digimorph.org"/>
+      <classification>paleobiology </classification>
+     <communities>paleontology</communities>   <communities> organismal biology</communities>   <communities> petrology</communities>   <communities> mineralogy</communities> 
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>3D CT images of objects - mostly vert paleo/bio,  also petrological/mineralogical);</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>DRYAD</name>
+    <link href="http://datadryad.org"/>
+      <classification>paleobiology </classification>
+     <communities>evolution</communities>   <communities> ecology</communities>   <communities> biodiversity</communities>   <communities> biology</communities> 
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>data from evolution and ecology literature.  Mostly unstructured data library</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Ellis and Messina catalogues</name>
+    <link href="http://www.micropress.org/e_m.html"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>taxonomic data for microfossils</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>GenBank</name>
+    <link href="http://www.ncbi.nlm.nih.gov/genbank"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>Gene sequences</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>ITIS (Integrated Taxonomic Information System)</name>
+    <link href="http://itis.gov"/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>public university museums</name>
+    <link href=""/>
+      <classification>paleobiology </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>ToL (Tree of Life)</name>
+    <link href="http://tolweb.org"/>
+      <classification>paleobiology </classification>
+     <communities>evolution</communities>   <communities> phylogenetics</communities> 
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>information about higher level taxa and phylogenies</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>TreeBase</name>
+    <link href="http://www.treebase.org"/>
+      <classification>paleobiology </classification>
+     <communities>evolutionary biology</communities>   <communities> paleontology</communities> 
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>phylogenetic (evolutionary) trees</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Collective Access</name>
+    <link href="http://www.collectiveaccess.org"/>
+      <classification>paleobiology </classification>
+     <communities>collections managers</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>collections management database tool/software</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Encyclopedia of Life</name>
+    <link href="http://www.eol.org"/>
+      <classification>paleobiology </classification>
+     <communities>broad</communities>   <communities> citizen science</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>aggregates information about species, including extinct species</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>FossilPlot</name>
+    <link href="http://www.fossilplot.org"/>
+      <classification>paleobiology </classification>
+     <communities>evolutionary biology</communities>   <communities> paleontology</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>For manipulating the Sepkoski (2002) database of >36,000 marine fossil genera for use in biostratigraphic and macroevolutionary investigations.</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>GNRD</name>
+    <link href="http://gnrd.globalnames.org"/>
+      <classification>paleobiology </classification>
+     <communities>metadata</communities>   <communities> biodiversity</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>algorithm for automated extracting species names from data files and text</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Mesquite</name>
+    <link href="http://mesquiteproject.org"/>
+      <classification>paleobiology </classification>
+     <communities>evolutionary biology</communities>   <communities> paleontology</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>visualization, manipulation, and analysis of phylogenetic (evolutionary) trees</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Scratchpads</name>
+    <link href="http://scratchpads.eu"/>
+      <classification>paleobiology </classification>
+     <communities>biodiversity</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>data management</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Specify</name>
+    <link href="http://specifysoftware.org"/>
+      <classification>paleobiology </classification>
+     <communities>museum herbarium curators; biodiversity</communities>   <communities> paleontology</communities> 
+    <datatype>samples</datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>software for sample curation; specimen management</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>International Multi-proxy Paleo Fire Database</name>
+    <link href="http://www.ncdc.noaa.gov/paleo/impd/paleofire.html"/>
+      <classification>paleoclimate </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IRI/LDEO</name>
+    <link href="http://iridl.ldeo.columbia.edu"/>
+      <classification>paleoclimate </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Climate data library. Proxy data and model runs.</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>PMIP (Paleoclimate Modelling Intercomparison Project)</name>
+    <link href=""/>
+      <classification>paleoclimate </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Archive for paleoclimatic model simulations run under standard PMIP experimental protocols</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Nevada Climate Change Portal (NCCP)</name>
+    <link href="http://sensor.nevada.edu/NCCP/Climate%20Monitoring/Network.aspx"/>
+      <classification>paleoclimate </classification>
+     <communities>geoscience</communities>   <communities> ecology</communities>   <communities> forestry</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   metadata catalog</resourcetype> <resourcetype>   software</resourcetype> <resourcetype>   portal</resourcetype> <resourcetype>   repository</resourcetype> 
+    <services>Atmospheric, soil, and vegetation data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>C2</name>
+    <link href=""/>
+      <classification>paleoclimate </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Paleoenvironmental transfer functions from paleodata</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>EdGCM: Educational Global Climate Model</name>
+    <link href="http://edgcm.columbia.edu"/>
+      <classification>paleoclimate </classification>
+     <communities>paleoclimate</communities>   <communities> climate</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>climate modeling, post-processing software, and visualization of model output</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>R-analogue</name>
+    <link href=""/>
+      <classification>paleoclimate </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>R package for paleoenvironmental transfer functions</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>R-rioja</name>
+    <link href="http://www.staff.ncl.ac.uk/staff/stephen.juggins/analysis.htm"/>
+      <classification>paleoclimate </classification>
+     <communities>paleoecology</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>R package for paleoenvironmental analysis and visualization</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NOAA Climate Reconstructions</name>
+    <link href="http://www.ncdc.noaa.gov/paleo/recons.html"/>
+      <classification>paleoclimate </classification>
+     <communities>paleoclimate</communities>   <communities> climate</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>database of climate models and data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Prism 3D</name>
+    <link href="http://geology.er.usgs.gov/eespteam/prism/prism_data.html"/>
+      <classification>paleoclimate </classification>
+     <communities>paleoclimate</communities>   <communities> climate</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>database of spreadsheets of temp, sea ice, biomes</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>e-guide to Paleoclimate</name>
+    <link href="http://www.jhu.edu/~lhinnov1/paleoguide/archive.html"/>
+      <classification>paleoclimate </classification>
+     <communities>paleoclimate</communities>   <communities> climate</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>listing of databases with links to paleocliate databases</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NASA Global Seawater d18O database</name>
+    <link href="http://data.giss.nasa.gov/o18data"/>
+      <classification>paleoclimate </classification>
+     <communities>paleoclimate</communities>   <communities> climate</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>searchable database of d18O of seawater</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Nd-isotope database</name>
+    <link href="http://www.legos.obs-mip.fr/recherches/equipes/geomar/Nd_DataBase"/>
+      <classification>paleoclimate </classification>
+     <communities>paleoclimate</communities>   <communities> climate</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>searchabe database</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>GPlates</name>
+    <link href="http://gplates.org"/>
+      <classification>plate tec </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>software to rotate plates for paleogeographic orientations and reconstructions</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Paleomap</name>
+    <link href="http://www.scotese.com/earth.htm"/>
+      <classification>plate tec </classification>
+     <communities>geoscience</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>global maps of continental positions over Earth History; includes GIS [$]</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Polar Data Catalogue</name>
+    <link href="http://www.polardata.ca"/>
+      <classification>polar </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   meta data</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NCED Data Repository</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Stratigraphic and experimantal results</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NOAA national Geophysical Data Center</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Geophysical data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>SEPM Strata</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>thin section images, virtual fieldtrips, sequence strat exercises much, much more</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USGS National Oil and Gas Assessment</name>
+    <link href="http://energy.usgs.gov/OilGas/AssessmentsData/NationalOilGasAssessment.aspx"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Geospatial, rock/strat and subsurface, geochem</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Varied state agencies (ND, UT, CO, TX, FL, etc)</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> <resourcetype>   geophysical logs</resourcetype> 
+    <services>example - IGOR (BEG)</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>GSSPs</name>
+    <link href="http://stratigraphy.org"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   meta data</resourcetype> 
+    <services>Global Boundary Stratotype and Point of the ICS database</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Petroleum Technology Transfer Council</name>
+    <link href="http://www.pttc.org"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  portal</resourcetype> 
+    <services>energy data locator</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>EarthScope</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>MARGINS/GEO Prisms</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>National Carbon Sequestration Database and Geographic Information System</name>
+    <link href="http://www.netl.doe.gov/technologies/carbon_seq/natcarb/index.html"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NGDS - National Geothermal Database System</name>
+    <link href="http://geothermaldata.org"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>SEI seismic exchange</name>
+    <link href="http://www.seismicexchange.com"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>listing of onshore seismic data available for purchase</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>SOUTHEAST REGIONAL CARBON SEQUESTRATION PARTNERSHIP</name>
+    <link href="http://www.secarbon.org"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Unconvetional Energy Resources</name>
+    <link href="http://unconventionalenergyresources.org"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>WesternGeoCo</name>
+    <link href="http://www.slb.com/services/westerngeco.aspx"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>seismic data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>conop</name>
+    <link href="http://www.paleosoc.org/shortcourse2010/downloadingCONOP9.pdf"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>stratagrphic correlation and seriation</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>CoreWall / PSICAT</name>
+    <link href="http://portal.chronos.org/psicat-site"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>lithologic description</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>HeFTy</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Thermal history modeling tool for multiple data types</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>MATStrat</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>draws stratigraphic columns</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>OPENDTECT</name>
+    <link href="http://www.opendtect.org"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>open source Seismic Interpretation</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>stratigraph</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>R package/toolkit for the plotting and analysis of stratigraphic data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Tilia</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+     <communities>neotoma</communities>   <communities> stratigraphic data</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>data entry, graphics, analysis</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Zone</name>
+    <link href="http://www.staff.ncl.ac.uk/staff/stephen.juggins/software/ZoneHome.htm"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>MS-DOS program for constrained clustering of stratigraphic data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Gradistat V8</name>
+    <link href="http://www.kpal.co.uk/gradistat.html"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>grain size analysis tool</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>SedPac</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>forward stratigraphic modelling program freeware</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Blueview (from Schlumberger)</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>commercial well log analysis tools</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Geofrat</name>
+    <link href="http://geofrat.egi.utah.edu/Default.aspx"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>geothermal resource tool</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Geographix</name>
+    <link href="http://www.lmkr.com/geographix"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Kingdom Suite</name>
+    <link href="http://www.ihs.com/products/oil-gas-information/analysis-software/kingdom-seismic-interpretation"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>commercial seismic interpretation, visualization</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Landmark</name>
+    <link href="http://lgc.com"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>commercial ProMAX, DecisonSpace</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NeuraLog/NeuraView</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>commercial well log analysis tools</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Petra</name>
+    <link href=""/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>commercial subsurface well log analysis, correlation</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Petrel</name>
+    <link href="http://www.slb.com/services/software/geo/petrel.aspx"/>
+      <classification>sed rock </classification> <classification> strat </classification> <classification> subsurface </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>commercial subsurface well log analysis, correlation</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Internaional inventory of automated databases in the geosciences</name>
+    <link href=""/>
+      <classification>various </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>link to pre-1994 databases</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>SESAR</name>
+    <link href="http://www.geosamples.org"/>
+      <classification>various </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>registry of physical samples, manages the International Geo Sample Number</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Google Sketch Up</name>
+    <link href=""/>
+      <classification>various </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>3-D modelling</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Data Thief</name>
+    <link href="http://www.datathief.org"/>
+      <classification>various </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Pulls data from graphs - reverse engineers data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Quantum GIS</name>
+    <link href=""/>
+      <classification>various </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Database analysis</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>CSDMS - Community Surface Dynamic Modeling system</name>
+    <link href=""/>
+      <classification>various </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>Many different softward tools and models</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Image J</name>
+    <link href=""/>
+      <classification>various </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>analysis of images</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>ESRI - GSI</name>
+    <link href="http://www.esri.com"/>
+      <classification>various </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>commercial GIS tool</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Gigapan</name>
+    <link href="http://gigapan.com"/>
+      <classification>various </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> <resourcetype>   respository</resourcetype> 
+    <services>photos of outcrops and 3d samples</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>EOSDIS</name>
+    <link href="http://earthdata.nasa.gov"/>
+      <classification>satelite </classification>
+     <communities>geo</communities>   <communities> planetary science</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>images from satellites and space station</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NASA Earth Observation</name>
+    <link href=""/>
+      <classification>satelite </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>imagery of satellite</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>SEAD Stratigraphic Environmental Archaeology Database</name>
+    <link href=""/>
+      <classification>soil </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>biological and chemical, physical data derived from soil samples from archaeological and natural deposits</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USDA-NRCS soils database</name>
+    <link href=""/>
+      <classification>soil </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>BU-PIC (Baylor University Paleosol Informatics Cloud)</name>
+    <link href=""/>
+      <classification>soil (paleosoil) </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>WebSoil Survey</name>
+    <link href="http://websoilsurvey.nrcs.usda.gov/app/HomePage.htm"/>
+      <classification>soil </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> <resourcetype>   database</resourcetype> 
+    <services>USDA data sets</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>CoCoRaHS</name>
+    <link href="http://www.cocorahs.org"/>
+      <classification>water </classification>
+     <communities>citizen science</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>precipitation monitoring</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>EPA STORET</name>
+    <link href=""/>
+      <classification>water </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>water monitoring data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IAEA-GNIP database (Global Network of Isotopes in Precipitation)</name>
+    <link href="http://www-naweb.iaea.org/napc/ih/IHS_resources_gnip.html"/>
+      <classification>water </classification>
+     <communities>paleoclimate</communities>   <communities> hydrology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>modern water isotope data, access and download</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IAEA-GNIR database (Global Network of Isotopes in Rivers)</name>
+    <link href="http://www-naweb.iaea.org/napc/ih/IHS_resources_gnir.html"/>
+      <classification>water </classification>
+     <communities>paleoclimate</communities>   <communities> hydrology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>modern water isotope data, access and download</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IAEA-MIBA (Moisture Isotopes in the Biosphere and Atmosphere)</name>
+    <link href="http://www-naweb.iaea.org/napc/ih/IHS_resources_miba.html"/>
+      <classification>water </classification>
+     <communities>paleoclimate</communities>   <communities> hydrology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>modern water isotope data, access and download</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>national hydrography dataset USGS</name>
+    <link href=""/>
+      <classification>water </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>National Rivers and Streams assessment</name>
+    <link href=""/>
+      <classification>water </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>USGS NWIS Database</name>
+    <link href=""/>
+      <classification>water </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Wadable streams assessment  USGS</name>
+    <link href=""/>
+      <classification>water </classification>
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>WaterIsotopes.org</name>
+    <link href="http://waterisotopes.org"/>
+      <classification>water </classification>
+     <communities>isotope geoscience</communities> 
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>GIS data sets</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IAEA-WISER (Water Isotope System for Data Analysis, Visualization and Electronic Retrieval)</name>
+    <link href="http://www-naweb.iaea.org/napc/ih/IHS_resources_isohis.html"/>
+      <classification>water </classification>
+     <communities>paleoclimate</communities>   <communities> hydrology</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>identify and visualize modern water isotope data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IsoMap</name>
+    <link href="http://isomap.org"/>
+      <classification>water </classification>
+     <communities>paleoclimate</communities>   <communities> hydrology</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>identify, analyze, visualize modern water isotope data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Algaebase</name>
+    <link href="http://www.algaebase.org"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>terrestrial, marine, freshwater algae image library and information</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>AQUA-OZPACS</name>
+    <link href="http://giantsstudio.com/aqua1"/>
+     
+     <communities>paleoecologists</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>multiproxy paleodata for Australia</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Climatological Database for the World's Oceans</name>
+    <link href="http://www.ucm.es/info/cliwoc/index.htm"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>documentary records from marine vessels 1750-1850</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>CMIP5 (Coupled Model Intercomparison Project Phase 5)</name>
+    <link href="http://cmip-pcmdi.llnl.gov/cmip5"/>
+     
+     <communities>WCRP </communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>promotes a standard set of model simulations</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>dbSEABED</name>
+    <link href="http://instaar.colorado.edu/~jenkinsc/dbseabed"/>
+     
+     <communities>geoscience</communities>   <communities> bioscience</communities>   <communities> engineering</communities>   <communities> conservation</communities>   <communities> resources</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Global seafloor materials and mesoscale features</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>EDNA Fossil Insect Database</name>
+    <link href="http://edna.palass-hosting.org"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Global Land Cover Facility</name>
+    <link href="http://landcover.org"/>
+     
+     <communities>GIS</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>satellite imagery</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Global Paleofire Database</name>
+    <link href="http://gpwg.org"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>first paleofire database</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IGOR Integrated Core and Log Database</name>
+    <link href="http://igor.beg.utexas.edu/crc2"/>
+     
+     <communities>Sedimentary geology</communities>   <communities> petroleum geology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Search for geophysical logs or geologic samples</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>International Fossil Algae Association</name>
+    <link href="http://web.ku.edu/~ifaa/index.html"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>fossil algae collections catalog and image library</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NANODe (North American Non-Marine Ostracode Database Project), NACODe</name>
+    <link href="http://www.personal.kent.edu/~alisonjs/nanode"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary>part of this is in Neotoma, but not all</summary>
+  </entry>
+
+<entry>
+    <name>Nordic Microalgae</name>
+    <link href="http://nordicmicroalgae.org"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>microalgae and related organisms in the Nordic region (marine, terrestrial, freshwater)</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>PALEOSTRAT</name>
+    <link href="http://www.paleostrat.org"/>
+     
+     <communities>sedimentary geology</communities>   <communities> stratigraphy</communities>   <communities> biostratigraphy</communities>   <communities> paleontology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>sedimentary geology data archive, visualization</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Phycological Society of America</name>
+    <link href="http://www.psaalgae.org"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Polar Information Commons</name>
+    <link href="http://www.polarcommons.org"/>
+     
+     <communities>polar research</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>polar scientific data archive</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>R2R</name>
+    <link href="http://www.rvdata.us"/>
+     
+     <communities>oceanography</communities>   <communities> paleoceanography</communities>   <communities> paleoclimatology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>shipborne sensor data archive</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Rudist Bivalve Database</name>
+    <link href="http://www.paleotax.de/rudists/intro.htm"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>taxonomy, regional and stratigraphical distribution of rudist bivalves</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Swedish Lifewatch</name>
+    <link href="http://www.slu.se/lifewatch"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>biodiversity and taxonomic data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>TDAR</name>
+    <link href="http://www.tdar.org"/>
+     
+     <communities>archaeology</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>archaeology, faunal remains, data as its generated</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>University of Minnesota Mineral Database</name>
+    <link href="http://mineral.esci.umn.edu"/>
+     
+     <communities>mineralogy</communities>   <communities> petrology</communities>   <communities> geochemistry</communities>   <communities> geophysics</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>Search for mineral samples and images within the University of Minnesota collection</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>WorldClim</name>
+    <link href="http://www.worldclim.org"/>
+     
+     <communities>ecological modeling</communities>   <communities> GIS</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> 
+    <services>global gridded climate data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>SESAR/IGSN</name>
+    <link href="http://www.staff.ncl.ac.uk/staff/stephen.juggins/software.htm"/>
+     
+     <communities>sample collectors</communities>   <communities> repositories</communities>   <communities> collections</communities> 
+    <datatype></datatype>
+    <resourcetype>  database</resourcetype> <resourcetype>   registry</resourcetype> 
+    <services>unique identifiers for samples; sample metadata catalog</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>TMI / Tool for Microscopic Identification</name>
+    <link href="http://tmi.laccore.umn.edu"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  image libary</resourcetype> 
+    <services>Images and tools for visual identification in smear slides</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>OneGeology</name>
+    <link href="http://www.onegeology.org"/>
+     
+     <communities>geoscience</communities> 
+    <datatype></datatype>
+    <resourcetype>  portal</resourcetype> 
+    <services>geological map data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>LacCore/National Lacustrine Core Facility, University of Minnesota</name>
+    <link href="http://laccore.org"/>
+     
+     <communities>paleolimnology</communities>   <communities> paleoclimatology</communities> 
+    <datatype></datatype>
+    <resourcetype>  repository</resourcetype> 
+    <services>paleolimnological core samples and associated data</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>CHRONOS Age-Depth Plot (ADP)</name>
+    <link href="http://portal.chronos.org/gridsphere/gridsphere?cid=tools_adp"/>
+     
+   
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>reads paleontological age-depth data from the Neptune database or from local files, plots those data, and allows interactive fitting of a line of correlation or age model</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>figshare</name>
+    <link href="http://www.figshare.org"/>
+     
+     <communities>data communities</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>store data sets and assign citable identifier</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>SSA-MTM Toolkit</name>
+    <link href="http://www.atmos.ucla.edu/tcd/ssa"/>
+     
+     <communities>paleorecord community</communities> 
+    <datatype></datatype>
+    <resourcetype>  software</resourcetype> 
+    <services>time series analysis</services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Data Ocean Drilling</name>
+    <link href="http://data.oceandrilling.org"/>
+     
+     <communities>scientific drilling</communities> 
+    <datatype></datatype>
+    <resourcetype>  linked open data</resourcetype> 
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IFAA</name>
+    <link href="http://deptsec.ku.edu/~ifaaku/"/>
+     
+     <communities>fossil algea </communities> 
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Silicasecchidisk</name>
+    <link href="http://fmp.conncoll.edu/Silicasecchidisk/Main_Menu_Frameset.html"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>International Ocean Discovery Program</name>
+    <link href="http://iodp.org"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IMLGS (linked data version)</name>
+    <link href="http://linked.seabedsamples.org"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>National Geologic Map Database</name>
+    <link href="http://ngmdb.usgs.gov"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Ocean Drilling Legacy Docuements</name>
+    <link href="http://scientific.oceandrilling.org"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>DSDP Legacy site</name>
+    <link href="http://www.deepseadrilling.org/"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Earth Chem</name>
+    <link href="http://www.earthchem.org"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Integrated Earth Data Applications</name>
+    <link href="http://www.iedadata.org"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Marine Geo</name>
+    <link href="http://www.marine-geo.org"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>IT IS</name>
+    <link href="http://www.itis.gov"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>NGDC MGG</name>
+    <link href="http://www.ngdc.noaa.gov/mgg"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Ocean Drilling Program Legacy </name>
+    <link href="http://www.odplegacy.org"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>The Paleontological Society</name>
+    <link href="http://www.paleosoc.org"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>Science Base (USGS)</name>
+    <link href="http://www.sciencebase.gov"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+<entry>
+    <name>UC Museum of Paleontology</name>
+    <link href="http://www.ucmp.berkeley.edu"/>
+     
+   
+    <datatype></datatype>
+    
+    <services></services>
+    <updated>2014-03-12T00:00:00Z</updated>
+    <summary></summary>
+  </entry>
+
+</feed>

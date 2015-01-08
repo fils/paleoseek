@@ -1,0 +1,4301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Collection xmlns="http://schemas.microsoft.com/collection/metadata/2009"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            xmlns:d1p1="http://schemas.microsoft.com/livelabs/pivot/collection/2009" SchemaVersion="1.0"
+            Name="C4P Resource Test">
+    <FacetCategories>
+        <FacetCategory Name="Classification" Type="String" d1p1:IsFilterVisible="true" d1p1:IsWordWheelVisible="true"
+                       d1p1:IsMetaDataVisible="true"/>
+        <FacetCategory Name="Communities" Type="String" d1p1:IsFilterVisible="true" d1p1:IsWordWheelVisible="true"
+                       d1p1:IsMetaDataVisible="true"/>
+        <FacetCategory Name="DataType" Type="String"/>
+        <FacetCategory Name="ResourceType" Type="String"/>
+    </FacetCategories>  
+<Items ImgBase="./output/dzc_output.xml">
+
+<Item Id="0" Img="#0" Href="http://dataconservancy.org" Name="Data Conservancy">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="life"/>  <String Value=" earth"/>  <String Value=" social science"/>  <String Value=" astronomy"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="1" Img="#1" Href="http://earth-base.org" Name="EarthBase">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" relational"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="2" Img="#2" Href="http://www.pangaea.de" Name="PANGAEA">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="3" Img="#3" Href="" Name="GeoStratSys (formerly PALEOSTRAT)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="4" Img="#4" Href="http://www.earth-time.org" Name="EarthTime">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="community"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="5" Img="#5" Href="http://www.ncdc.noaa.gov/paleo/aar.html" Name="Aminostratigraphy database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="6" Img="#6" Href="http://www.chronos.org" Name="CHRONOS">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="7" Img="#7" Href="" Name="GeoChron">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="8" Img="#8" Href="" Name="GeoWhen">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="9" Img="#9" Href="http://mrdata.usgs.gov/geochron" Name="National Geochronological Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="10" Img="#10" Href="http://macrostrat.org" Name="Macrostrat">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleobiology"/>  <String Value=" sedimentary geology"/>  <String Value=" geodynamics"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" relational"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="11" Img="#11" Href="http://earthref.org/MAGIC" Name="MagIC">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geophysics"/>  <String Value=" tectonics"/>  <String Value=" sedimentary geology"/>  <String Value=" limnology"/>  <String Value=" paleoclimate"/>  <String Value=" marine geology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" software"/>  <String Value=" portal"/>  <String Value=" metadata catalog"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="12" Img="#12" Href="http://www.ncdc.noaa.gov/paleo/treering.html" Name="ITRDB Data Bank">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/>  <String Value=" ecology"/>  <String Value=" forestry"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" portal"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="13" Img="#13" Href="" Name="Laboratory of Tree-Ring Research, University of Arizona">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="14" Img="#14" Href="http://www.lsce.ipsl.fr/logiciels/index.php" Name="Analyseries">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoecologist"/>  <String Value=" paleoclimate"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="15" Img="#15" Href="http://www.ncdc.noaa.gov/paleo/softlib/arand/arand.html" Name="Arand">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoenvironment"/>  <String Value=" paleoclimate"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="16" Img="#16" Href="http://chrono.qub.ac.uk/blaauw/bacon.html" Name="BACON">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/>  <String Value=" paleolimnology"/>  <String Value=" paleoclimate"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="17" Img="#17" Href="http://www.chronozoom.com" Name="ChronoZoom">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geology"/>  <String Value=" planetary science"/>  <String Value=" paleontology"/>  <String Value=" archaeology"/>  <String Value=" paleoclimate"/>  <String Value=" tectonics"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="18" Img="#18" Href="http://cran.r-project.org/web/packages/dplR/index.html" Name="dplR">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/>  <String Value=" ecology"/>  <String Value=" forestry"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="19" Img="#19" Href="" Name="Isoplot">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="20" Img="#20" Href="http://lorraine-lisiecki.com/match.html" Name="Match">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="21" Img="#21" Href="http://engineering.purdue.edu/Stratigraphy/tscreator/index/index.php" Name="Time Scale Creator">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="22" Img="#22" Href="http://www.tridas.org/tricycle" Name="TRiCYCLE">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="chronology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/>  <String Value=" ecology"/>  <String Value=" forestry"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="23" Img="#23" Href="http://climexp.knmi.nl" Name="Climate  Explorer">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="climate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="24" Img="#24" Href="" Name="NOAA national climatic data Center">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="climate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="25" Img="#25" Href="http://www.ncdc.noaa.gov" Name="NCDC">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="climate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="meteorologist"/>  <String Value=" paleoclimate"/>  <String Value=" paleoecology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="26" Img="#26" Href="http://www.icdp-online.org" Name="ICDP CurationDIS">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="cont drilling"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="scientific drilling"/>  <String Value=" CSD"/>  <String Value=" ICDP"/>  <String Value=" IODP-ECORD"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="27" Img="#27" Href="http://www.corewall.org" Name="CoreWall">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="cont drilling"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="pictures"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" images"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="28" Img="#28" Href="" Name="Canadian National Resources Core Repository">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="cont drilling"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="29" Img="#29" Href="" Name="USGS-Denver Core Research Center">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="cont drilling"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" onshore cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="30" Img="#30" Href="" Name="State core repositories (ND, UT, KS, TX, FL, WI, MT, etc)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="cont drilling"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" onshore cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="31" Img="#31" Href="" Name="EarthChem">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="geochem"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="32" Img="#32" Href="http://www.earthref.org" Name="EarthRef">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="geochem"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" portal"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="33" Img="#33" Href="http://nsidc.org" Name="NSIDC">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="ice"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" climate"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="34" Img="#34" Href="" Name="US Army cold regions rsearch and engineering lab">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="ice"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="35" Img="#35" Href="" Name="USGS-National Ice Core Laboratory">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="ice"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" ice cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="36" Img="#36" Href="" Name="Ice Core Storage Facility, Byrd Polar Research Center, Ohio State University">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="ice"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" ice cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="37" Img="#37" Href="" Name="Polar Rock Repository, Byrd Polar Research Center, Ohio State U">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="ice"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" rocks"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="38" Img="#38" Href="" Name="Caligornia Geological Survey LiDar">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="LIDAR"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="39" Img="#39" Href="http://https://www.lidar-online.com" Name="LiDAR online">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="LIDAR"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="40" Img="#40" Href="http://opentopography.org" Name="OpenTopography.org">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="LIDAR"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="41" Img="#41" Href="http://geology.utah.gov/databases/lidar/lidar.htm" Name="Utah Geologic Survey">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="LIDAR"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="Sedimentary Geology Structure"/>  <String Value=" Tectonics"/>  <String Value=" Hydrology Archeology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="42" Img="#42" Href="" Name="BLM geospatial data portal">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="maps"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="43" Img="#43" Href="http://ngmdb.usgs.gov/gmna" Name="USGS Geologic Maps">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="maps"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="44" Img="#44" Href="http://cpgeosystems.com/index.html" Name="Colorado Plateau Geosystems Inc">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="maps"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" visualization"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="45" Img="#45" Href="" Name="National Digital Map">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="maps"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="46" Img="#46" Href="" Name="various state survey">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="maps"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="47" Img="#47" Href="http://tin.er.usgs.gov/geology/state" Name="USGS US Geological Maps">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="maps"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" GIS"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="48" Img="#48" Href="http://dapple.geosoft.com" Name="Dapple">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="maps"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="49" Img="#49" Href="http://www.geomapapp.org" Name="GeoMapApp">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="maps"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="50" Img="#50" Href="" Name="USGS LASED geodatabase">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="mar geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="51" Img="#51" Href="" Name="Calcium Carbonate Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="52" Img="#52" Href="" Name="Index of Marine Lacustrine Geological Samples">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="53" Img="#53" Href="http://www-odp.tamu.edu/database" Name="IODP JANUS / LIMS">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="scientific drilling"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="54" Img="#54" Href="http://brg.ldeo.columbia.edu/logdb" Name="USIO Log DB">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="scientific drilling"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="borehole logs"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="55" Img="#55" Href="http://coreref.org" Name="CoreRef">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="pictures"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" images"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="56" Img="#56" Href="http://www.seabedsamples.org" Name="NGDC Index to Marine and Lacustrine Geological Samples">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="marine geology"/>  <String Value=" limnogeology"/>  <String Value=" paleolimnology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" relational"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="57" Img="#57" Href="" Name="Marine Geoscience Data System">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" catalog"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="58" Img="#58" Href="http://walrus.wr.usgs.gov/infobank" Name="USGS CMG Infobank">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscientists"/>  <String Value=" coastal sedimentologists"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="metadata catalog"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="59" Img="#59" Href="http://boemre.gov" Name="Bureau of Ocean Energy Management, Regulation and Enforcement">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="60" Img="#60" Href="" Name="RIDGE2000 data portal">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="61" Img="#61" Href="" Name="IODP core repositories (BCR/GCR/KCR)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" marine cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="62" Img="#62" Href="" Name="Lamont-Doherty Core Repository, Columbia University">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" marine cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="63" Img="#63" Href="" Name="Marine Geological Samples Laboratory, University of Rhode Island">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" marine cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="64" Img="#64" Href="" Name="Marine Geology Repository, Oregon State University">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" marine cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="65" Img="#65" Href="" Name="Scripps Institution of Oceanography Geological Samples Repository">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" marine cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="66" Img="#66" Href="" Name="USGS-Menlo Park Marine Geology Sample Repository">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" marine cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="67" Img="#67" Href="" Name="USGS-Woods Hole East Coast Geological Sample Repository">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" marine cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="68" Img="#68" Href="" Name="Woods Hole Oceanographic Institution Seafloor Samples Laboratory">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" marine cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="69" Img="#69" Href="" Name="Antarctic Marine Geology Research Facility, Florida State University">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" marine cores"/>  <String Value=" cores"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="70" Img="#70" Href="http://odv.awi.de" Name="Ocean Data View">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="marine geol"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="oceanography"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="71" Img="#71" Href="http://alaskafossil.org" Name="Alaska Paleontology Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="72" Img="#72" Href="http://animaldiversity.ummz.umich.edu" Name="Animal Diversity Web">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="evolutionary biology"/>  <String Value=" paleontology"/>  <String Value=" general public"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="73" Img="#73" Href="" Name="Biodiversity Information Serving Our Nation (BISON)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="74" Img="#74" Href="http://www.bugscep.com" Name="BugCEP Coleopteran Ecology Package">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoentomology"/>  <String Value=" entomology"/>  <String Value=" ecology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="75" Img="#75" Href="http://portal.chronos.org" Name="Chronos Portal">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="76" Img="#76" Href="http://portal.chronos.org/gridsphere/gridsphere?cid=searches" Name="Chronos Neptune">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="deep sea research communities"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="77" Img="#77" Href="http://portal.chronos.org/gridsphere/gridsphere?cid=res_foram" Name="Chronos Taxon Atlas">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="biostratigraphers"/>  <String Value=" paleoceanographers"/>  <String Value=" taxonomists"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="78" Img="#78" Href="http://www.fossilrecord.net/dateaclade/index.html" Name="Date A Clade">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="evolutionary biology"/>  <String Value=" paleontology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="79" Img="#79" Href="http://diatom.ansp.org/dpdc" Name="Diatom Paleolimnology Data Cooperative">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleolimnologists"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="80" Img="#80" Href="" Name="ESRF paleoontological microtomographic database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="81" Img="#81" Href="http://craticula.ncl.ac.uk/Eddi/jsp" Name="European Diatom Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleolimnologists"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="82" Img="#82" Href="http://fishbase.org" Name="FishBase">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="ichthyologist"/>  <String Value=" biodiversity"/>  <String Value=" conservation"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="83" Img="#83" Href="http://fred.org.nz" Name="Fossil  record electronic database (FRED)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="84" Img="#84" Href="http://www.nescent.org/science/awards_summary.php?id=259" Name="Fossil Calibration Database (forthcoming)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleontology"/>  <String Value=" evolutionary biology"/>  <String Value=" molecular biology"/>  <String Value=" geochronology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="85" Img="#85" Href="http://gbif.org" Name="GBIF (Global Biodiversity Information Facility)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="86" Img="#86" Href="http://www.idigbio.org" Name="iDigBio">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="87" Img="#87" Href="http://noaa.gov/paleo/insect.html" Name="Insect">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="88" Img="#88" Href="http://www2.unil.ch/interrad-mrd/login.php?dbase=radiolaria" Name="INTERRAD-Mesozoic Radiolaria Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoceanographic"/>  <String Value=" micropaleo communities"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="89" Img="#89" Href="" Name="MOM v 4.1.">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="90" Img="#90" Href="http://www.usanpn.org" Name="national phenological network">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="citizen science"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="91" Img="#91" Href="http://www.neotomadb.org" Name="Neotoma Paleoecology Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="92" Img="#92" Href="http://eusmilia.geology.uiowa.edu" Name="NMITA  Neogene Marine Biota of Tropical America">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/>  <String Value=" biosciences"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="93" Img="#93" Href="http://iobis.org" Name="OBIS">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="94" Img="#94" Href="http://peabody.yale.edu/collections" Name="Peabody Paleo Portal (Yale)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="95" Img="#95" Href="http://radiolaria.org" Name="radiolaria.org">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="96" Img="#96" Href="http://paleobiology.si.edu/collections/paleocollections.html" Name="Smithsonian Museum of Natural History Paleontology and Sediment collections">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleotological"/>  <String Value=" biological"/>  <String Value=" sedimentology research communities"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="97" Img="#97" Href="http://biostratigraphy.com" Name="Southern Louisiana Paleo Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="98" Img="#98" Href="http://www.timetree.org" Name="TimeTree">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="evolutionary biology"/>  <String Value=" paleontology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="99" Img="#99" Href="http://www.envs.emory.edu/faculty/MARTIN/ichnology/images.htm" Name="Trace Fossil Image Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleontology"/>  <String Value=" public"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="100" Img="#100" Href="http://ucmpdb.berkeley.edu" Name="UCMP Database (University of California Museum of Paleontology)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleontology"/>  <String Value=" geology"/>  <String Value=" organismal biology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="101" Img="#101" Href="" Name="World Register of Marine Species: WoRMS">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="102" Img="#102" Href="http://research.fit.edu/paleolab/pollen.php" Name="Neotropical Pollen Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" images"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="103" Img="#103" Href="http://silicasecchidisk.conncoll.edu/Main_Menu_Frameset.html" Name="Silica Secchi Disk">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="limnologists"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" images"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="104" Img="#104" Href="http://www.ucmp.berkeley.edu/neomap" Name="NEOMAP">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="neotoma"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" portal"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="105" Img="#105" Href="http://www.ucmp.berkeley.edu/miomap" Name="MIOMAP">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="mammal paleobiologists"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" relational"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="106" Img="#106" Href="http://paleodb.org" Name="Paleobiology Database (PBDB)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleobiology"/>  <String Value=" sedimentary geology"/>  <String Value=" geodynamics"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" relational"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="107" Img="#107" Href="http://www.paleoportal.org" Name="Paleontology Portal">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleontology"/>  <String Value=" geology"/>  <String Value=" organismal biology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" aggregator"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="108" Img="#108" Href="http://le.ac.uk/geology/conodont/pander" Name="Pander Society">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" bibliography"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="109" Img="#109" Href="http://www.morphobank.org" Name="Morphobank">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleontology"/>  <String Value=" geology"/>  <String Value=" organismal biology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="110" Img="#110" Href="http://zoobank.org" Name="Zoobank">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="evolutionary biology"/>  <String Value=" paleontology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" registry"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="111" Img="#111" Href="http://vbrant.eu" Name="ViBRANT">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="ViBRANT"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="112" Img="#112" Href="http://nannotax.org" Name="Nannotax Atlas">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="calcareous nannofossil"/>  <String Value=" paleoceanography"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" visualization"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="113" Img="#113" Href="" Name="CLAMP">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="dataset"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="114" Img="#114" Href="http://westerndiatoms.colorado.edu" Name="Diatoms of the United States">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="diatomists"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="metadata key"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="115" Img="#115" Href="http://biodiversitylibrary.org" Name="Biodiversity Heritage Library">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleontology"/>  <String Value=" taxonomy"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="116" Img="#116" Href="http://www.digimorph.org" Name="DigiMorph">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleontology"/>  <String Value=" organismal biology"/>  <String Value=" petrology"/>  <String Value=" mineralogy"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="117" Img="#117" Href="http://datadryad.org" Name="DRYAD">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="evolution"/>  <String Value=" ecology"/>  <String Value=" biodiversity"/>  <String Value=" biology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="118" Img="#118" Href="http://www.micropress.org/e_m.html" Name="Ellis and Messina catalogues">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="119" Img="#119" Href="http://www.ncbi.nlm.nih.gov/genbank" Name="GenBank">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="120" Img="#120" Href="http://itis.gov" Name="ITIS (Integrated Taxonomic Information System)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="121" Img="#121" Href="" Name="public university museums">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="122" Img="#122" Href="http://tolweb.org" Name="ToL (Tree of Life)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="evolution"/>  <String Value=" phylogenetics"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="123" Img="#123" Href="http://www.treebase.org" Name="TreeBase">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="evolutionary biology"/>  <String Value=" paleontology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="124" Img="#124" Href="http://www.collectiveaccess.org" Name="Collective Access">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="collections managers"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="125" Img="#125" Href="http://www.eol.org" Name="Encyclopedia of Life">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="broad"/>  <String Value=" citizen science"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="126" Img="#126" Href="http://www.fossilplot.org" Name="FossilPlot">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="evolutionary biology"/>  <String Value=" paleontology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="127" Img="#127" Href="http://gnrd.globalnames.org" Name="GNRD">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="metadata"/>  <String Value=" biodiversity"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="128" Img="#128" Href="http://mesquiteproject.org" Name="Mesquite">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="evolutionary biology"/>  <String Value=" paleontology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="129" Img="#129" Href="http://scratchpads.eu" Name="Scratchpads">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="biodiversity"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="130" Img="#130" Href="http://specifysoftware.org" Name="Specify">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleobiology"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="museum herbarium curators; biodiversity"/>  <String Value=" paleontology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value="samples"/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="131" Img="#131" Href="http://www.ncdc.noaa.gov/paleo/impd/paleofire.html" Name="International Multi-proxy Paleo Fire Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="132" Img="#132" Href="http://iridl.ldeo.columbia.edu" Name="IRI/LDEO">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="133" Img="#133" Href="" Name="PMIP (Paleoclimate Modelling Intercomparison Project)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="134" Img="#134" Href="http://sensor.nevada.edu/NCCP/Climate%20Monitoring/Network.aspx" Name="Nevada Climate Change Portal (NCCP)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/>  <String Value=" ecology"/>  <String Value=" forestry"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" metadata catalog"/>  <String Value=" software"/>  <String Value=" portal"/>  <String Value=" repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="135" Img="#135" Href="" Name="C2">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="136" Img="#136" Href="http://edgcm.columbia.edu" Name="EdGCM: Educational Global Climate Model">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" climate"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="137" Img="#137" Href="" Name="R-analogue">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="138" Img="#138" Href="http://www.staff.ncl.ac.uk/staff/stephen.juggins/analysis.htm" Name="R-rioja">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoecology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="139" Img="#139" Href="http://www.ncdc.noaa.gov/paleo/recons.html" Name="NOAA Climate Reconstructions">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" climate"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="140" Img="#140" Href="http://geology.er.usgs.gov/eespteam/prism/prism_data.html" Name="Prism 3D">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" climate"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="141" Img="#141" Href="http://www.jhu.edu/~lhinnov1/paleoguide/archive.html" Name="e-guide to Paleoclimate">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" climate"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="142" Img="#142" Href="http://data.giss.nasa.gov/o18data" Name="NASA Global Seawater d18O database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" climate"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="143" Img="#143" Href="http://www.legos.obs-mip.fr/recherches/equipes/geomar/Nd_DataBase" Name="Nd-isotope database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="paleoclimate"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" climate"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="144" Img="#144" Href="http://gplates.org" Name="GPlates">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="plate tec"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="145" Img="#145" Href="http://www.scotese.com/earth.htm" Name="Paleomap">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="plate tec"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="146" Img="#146" Href="http://www.polardata.ca" Name="Polar Data Catalogue">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="polar"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" meta data"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="147" Img="#147" Href="" Name="NCED Data Repository">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="148" Img="#148" Href="" Name="NOAA national Geophysical Data Center">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="149" Img="#149" Href="" Name="SEPM Strata">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="150" Img="#150" Href="http://energy.usgs.gov/OilGas/AssessmentsData/NationalOilGasAssessment.aspx" Name="USGS National Oil and Gas Assessment">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="151" Img="#151" Href="" Name="Varied state agencies (ND, UT, CO, TX, FL, etc)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/>  <String Value=" geophysical logs"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="152" Img="#152" Href="http://stratigraphy.org" Name="GSSPs">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" meta data"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="153" Img="#153" Href="http://www.pttc.org" Name="Petroleum Technology Transfer Council">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="portal"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="154" Img="#154" Href="" Name="EarthScope">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="155" Img="#155" Href="" Name="MARGINS/GEO Prisms">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="156" Img="#156" Href="http://www.netl.doe.gov/technologies/carbon_seq/natcarb/index.html" Name="National Carbon Sequestration Database and Geographic Information System">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="157" Img="#157" Href="http://geothermaldata.org" Name="NGDS - National Geothermal Database System">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="158" Img="#158" Href="http://www.seismicexchange.com" Name="SEI seismic exchange">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="159" Img="#159" Href="http://www.secarbon.org" Name="SOUTHEAST REGIONAL CARBON SEQUESTRATION PARTNERSHIP">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="160" Img="#160" Href="http://unconventionalenergyresources.org" Name="Unconvetional Energy Resources">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="161" Img="#161" Href="http://www.slb.com/services/westerngeco.aspx" Name="WesternGeoCo">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="162" Img="#162" Href="http://www.paleosoc.org/shortcourse2010/downloadingCONOP9.pdf" Name="conop">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="163" Img="#163" Href="http://portal.chronos.org/psicat-site" Name="CoreWall / PSICAT">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="164" Img="#164" Href="" Name="HeFTy">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="165" Img="#165" Href="" Name="MATStrat">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="166" Img="#166" Href="http://www.opendtect.org" Name="OPENDTECT">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="167" Img="#167" Href="" Name="stratigraph">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="168" Img="#168" Href="" Name="Tilia">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="neotoma"/>  <String Value=" stratigraphic data"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="169" Img="#169" Href="http://www.staff.ncl.ac.uk/staff/stephen.juggins/software/ZoneHome.htm" Name="Zone">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="170" Img="#170" Href="http://www.kpal.co.uk/gradistat.html" Name="Gradistat V8">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="171" Img="#171" Href="" Name="SedPac">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="172" Img="#172" Href="" Name="Blueview (from Schlumberger)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="173" Img="#173" Href="http://geofrat.egi.utah.edu/Default.aspx" Name="Geofrat">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="174" Img="#174" Href="http://www.lmkr.com/geographix" Name="Geographix">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="175" Img="#175" Href="http://www.ihs.com/products/oil-gas-information/analysis-software/kingdom-seismic-interpretation" Name="Kingdom Suite">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="176" Img="#176" Href="http://lgc.com" Name="Landmark">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="177" Img="#177" Href="" Name="NeuraLog/NeuraView">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="178" Img="#178" Href="" Name="Petra">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="179" Img="#179" Href="http://www.slb.com/services/software/geo/petrel.aspx" Name="Petrel">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="sed rock"/>  <String Value=" strat"/>  <String Value=" subsurface"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="180" Img="#180" Href="" Name="Internaional inventory of automated databases in the geosciences">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="181" Img="#181" Href="http://www.geosamples.org" Name="SESAR">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="182" Img="#182" Href="" Name="Google Sketch Up">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="183" Img="#183" Href="http://www.datathief.org" Name="Data Thief">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="184" Img="#184" Href="" Name="Quantum GIS">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="185" Img="#185" Href="" Name="CSDMS - Community Surface Dynamic Modeling system">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="186" Img="#186" Href="" Name="Image J">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="187" Img="#187" Href="http://www.esri.com" Name="ESRI - GSI">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="188" Img="#188" Href="http://gigapan.com" Name="Gigapan">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="various"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/>  <String Value=" respository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="189" Img="#189" Href="http://earthdata.nasa.gov" Name="EOSDIS">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="satelite"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geo"/>  <String Value=" planetary science"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="190" Img="#190" Href="" Name="NASA Earth Observation">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="satelite"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="191" Img="#191" Href="" Name="SEAD Stratigraphic Environmental Archaeology Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="soil"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="192" Img="#192" Href="" Name="USDA-NRCS soils database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="soil"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="193" Img="#193" Href="" Name="BU-PIC (Baylor University Paleosol Informatics Cloud)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="soil (paleosoil)"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="194" Img="#194" Href="http://websoilsurvey.nrcs.usda.gov/app/HomePage.htm" Name="WebSoil Survey">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="soil"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/>  <String Value=" database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="195" Img="#195" Href="http://www.cocorahs.org" Name="CoCoRaHS">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="citizen science"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="196" Img="#196" Href="" Name="EPA STORET">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="197" Img="#197" Href="http://www-naweb.iaea.org/napc/ih/IHS_resources_gnip.html" Name="IAEA-GNIP database (Global Network of Isotopes in Precipitation)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" hydrology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="198" Img="#198" Href="http://www-naweb.iaea.org/napc/ih/IHS_resources_gnir.html" Name="IAEA-GNIR database (Global Network of Isotopes in Rivers)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" hydrology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="199" Img="#199" Href="http://www-naweb.iaea.org/napc/ih/IHS_resources_miba.html" Name="IAEA-MIBA (Moisture Isotopes in the Biosphere and Atmosphere)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" hydrology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="200" Img="#200" Href="" Name="national hydrography dataset USGS">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="201" Img="#201" Href="" Name="National Rivers and Streams assessment">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="202" Img="#202" Href="" Name="USGS NWIS Database">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="203" Img="#203" Href="" Name="Wadable streams assessment  USGS">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="204" Img="#204" Href="http://waterisotopes.org" Name="WaterIsotopes.org">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="isotope geoscience"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="205" Img="#205" Href="http://www-naweb.iaea.org/napc/ih/IHS_resources_isohis.html" Name="IAEA-WISER (Water Isotope System for Data Analysis, Visualization and Electronic Retrieval)">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" hydrology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="206" Img="#206" Href="http://isomap.org" Name="IsoMap">
+<Facets>
+				<Facet Name="Classification">
+                      <String Value="water"/> 
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoclimate"/>  <String Value=" hydrology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="207" Img="#207" Href="http://www.algaebase.org" Name="Algaebase">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="208" Img="#208" Href="http://giantsstudio.com/aqua1" Name="AQUA-OZPACS">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleoecologists"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="209" Img="#209" Href="http://www.ucm.es/info/cliwoc/index.htm" Name="Climatological Database for the World's Oceans">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="210" Img="#210" Href="http://cmip-pcmdi.llnl.gov/cmip5" Name="CMIP5 (Coupled Model Intercomparison Project Phase 5)">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="WCRP "/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="211" Img="#211" Href="http://instaar.colorado.edu/~jenkinsc/dbseabed" Name="dbSEABED">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/>  <String Value=" bioscience"/>  <String Value=" engineering"/>  <String Value=" conservation"/>  <String Value=" resources"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="212" Img="#212" Href="http://edna.palass-hosting.org" Name="EDNA Fossil Insect Database">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="213" Img="#213" Href="http://landcover.org" Name="Global Land Cover Facility">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="GIS"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="214" Img="#214" Href="http://gpwg.org" Name="Global Paleofire Database">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="215" Img="#215" Href="http://igor.beg.utexas.edu/crc2" Name="IGOR Integrated Core and Log Database">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="Sedimentary geology"/>  <String Value=" petroleum geology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="216" Img="#216" Href="http://web.ku.edu/~ifaa/index.html" Name="International Fossil Algae Association">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="217" Img="#217" Href="http://www.personal.kent.edu/~alisonjs/nanode" Name="NANODe (North American Non-Marine Ostracode Database Project), NACODe">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="218" Img="#218" Href="http://nordicmicroalgae.org" Name="Nordic Microalgae">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="219" Img="#219" Href="http://www.paleostrat.org" Name="PALEOSTRAT">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="sedimentary geology"/>  <String Value=" stratigraphy"/>  <String Value=" biostratigraphy"/>  <String Value=" paleontology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="220" Img="#220" Href="http://www.psaalgae.org" Name="Phycological Society of America">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="221" Img="#221" Href="http://www.polarcommons.org" Name="Polar Information Commons">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="polar research"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="222" Img="#222" Href="http://www.rvdata.us" Name="R2R">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="oceanography"/>  <String Value=" paleoceanography"/>  <String Value=" paleoclimatology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="223" Img="#223" Href="http://www.paleotax.de/rudists/intro.htm" Name="Rudist Bivalve Database">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="224" Img="#224" Href="http://www.slu.se/lifewatch" Name="Swedish Lifewatch">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="225" Img="#225" Href="http://www.tdar.org" Name="TDAR">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="archaeology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="226" Img="#226" Href="http://mineral.esci.umn.edu" Name="University of Minnesota Mineral Database">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="mineralogy"/>  <String Value=" petrology"/>  <String Value=" geochemistry"/>  <String Value=" geophysics"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="227" Img="#227" Href="http://www.worldclim.org" Name="WorldClim">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="ecological modeling"/>  <String Value=" GIS"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="228" Img="#228" Href="http://www.staff.ncl.ac.uk/staff/stephen.juggins/software.htm" Name="SESAR/IGSN">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="sample collectors"/>  <String Value=" repositories"/>  <String Value=" collections"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="database"/>  <String Value=" registry"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="229" Img="#229" Href="http://tmi.laccore.umn.edu" Name="TMI / Tool for Microscopic Identification">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="image libary"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="230" Img="#230" Href="http://www.onegeology.org" Name="OneGeology">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="geoscience"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="portal"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="231" Img="#231" Href="http://laccore.org" Name="LacCore/National Lacustrine Core Facility, University of Minnesota">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleolimnology"/>  <String Value=" paleoclimatology"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="repository"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="232" Img="#232" Href="http://portal.chronos.org/gridsphere/gridsphere?cid=tools_adp" Name="CHRONOS Age-Depth Plot (ADP)">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="233" Img="#233" Href="http://www.figshare.org" Name="figshare">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="data communities"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="234" Img="#234" Href="http://www.atmos.ucla.edu/tcd/ssa" Name="SSA-MTM Toolkit">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="paleorecord community"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="software"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="235" Img="#235" Href="http://data.oceandrilling.org" Name="Data Ocean Drilling">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="scientific drilling"/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                      <String Value="linked open data"/> 
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="236" Img="#236" Href="http://deptsec.ku.edu/~ifaaku/" Name="IFAA">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				     <String Value="fossil algea "/> 
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="237" Img="#237" Href="http://fmp.conncoll.edu/Silicasecchidisk/Main_Menu_Frameset.html" Name="Silicasecchidisk">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="238" Img="#238" Href="http://iodp.org" Name="International Ocean Discovery Program">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="239" Img="#239" Href="http://linked.seabedsamples.org" Name="IMLGS (linked data version)">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="240" Img="#240" Href="http://ngmdb.usgs.gov" Name="National Geologic Map Database">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="241" Img="#241" Href="http://scientific.oceandrilling.org" Name="Ocean Drilling Legacy Docuements">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="242" Img="#242" Href="http://www.deepseadrilling.org/" Name="DSDP Legacy site">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="243" Img="#243" Href="http://www.earthchem.org" Name="Earth Chem">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="244" Img="#244" Href="http://www.iedadata.org" Name="Integrated Earth Data Applications">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="245" Img="#245" Href="http://www.marine-geo.org" Name="Marine Geo">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="246" Img="#246" Href="http://www.itis.gov" Name="IT IS">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="247" Img="#247" Href="http://www.ngdc.noaa.gov/mgg" Name="NGDC MGG">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="248" Img="#248" Href="http://www.odplegacy.org" Name="Ocean Drilling Program Legacy ">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="249" Img="#249" Href="http://www.paleosoc.org" Name="The Paleontological Society">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="250" Img="#250" Href="http://www.sciencebase.gov" Name="Science Base (USGS)">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+
+<Item Id="251" Img="#251" Href="http://www.ucmp.berkeley.edu" Name="UC Museum of Paleontology">
+<Facets>
+				<Facet Name="Classification">
+                     
+                </Facet>
+				<Facet Name="Communities">
+				    
+                </Facet>
+                <Facet Name="DataType">
+                    <String Value=""/>
+                </Facet>
+                <Facet Name="ResourceType">
+                     
+                </Facet>
+</Facets>     
+</Item>      
+ 
+</Items>     
+</Collection>
